@@ -5,7 +5,7 @@ import Profilelogo from './profile-image.webp'
 class Profile extends Component {
     state = {
         name: 'Jesús Boada',
-        email: 'jesusb@takeoffmedia.com'
+        email: 'example@example.com'
     }
 
     handleChange = (event) => {
